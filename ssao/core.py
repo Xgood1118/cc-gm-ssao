@@ -26,3 +26,8 @@ def denoise(ao, sigma_s, sigma_r):
     """降噪"""
     raise NotImplementedError("denoise 尚未实现")
 
+
+def load_depth(path):
+    """读入与落盘辅助"""
+    raise NotImplementedError("load_depth 尚未实现")
+
