@@ -1,1 +1,1 @@
-"""SSAO 核采样与降噪"""
+from .core import *  # noqa: F401,F403
